@@ -1,0 +1,11 @@
+{
+    "name": "terrostar/bundle",
+    "description": "The default addon bundle for Terrostar builds.",
+    "license": "MIT",
+    "require": {
+        "anomaly/video_block-extension": "^1.0",
+        "anomaly/includes-extension": "^1.0",
+        "anomaly/streams-module": "^1.3",
+        "anomaly/forms-module": "^1.3"
+    }
+}
